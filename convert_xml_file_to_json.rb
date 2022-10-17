@@ -1,0 +1,6 @@
+require "rubygems"
+require "crack"
+require "json"
+
+myXML  = Crack::XML.parse(File.read("my_xml_file.xml"))
+myJSON = myXML.to_json
