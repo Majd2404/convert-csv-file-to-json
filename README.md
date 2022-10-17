@@ -11,4 +11,4 @@ GEMFILE:
 
 INSTALLATION:
 
-gem install crack
+`gem install crack`
