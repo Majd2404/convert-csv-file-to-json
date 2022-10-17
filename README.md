@@ -7,7 +7,7 @@ crack is really simple JSON and XML parsing, ripped from Merb and Rails.
 
 GEMFILE:
 
-copyCodeBlock('<div>gem 'crack', '~> 0.4.5'</div>')
+gem 'crack', '~> 0.4.5'
 
 INSTALLATION:
 
